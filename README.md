@@ -7,6 +7,9 @@
 <b>Aim:</b> to create a simple web app which can record bouts of exercises and personal bests onto a google sheet for future viewing. 
 
 <b>How it Works:</b>
+
+The code can be saved to a [replit](https://replit.com/) and ran online, thus creating a simple 'web app'
+
 1. The user must edit lines; 8,9,10,11 appropriately for accurate calculations and generate API_KEY and APP_ID from the [Nutritionix API](https://trackapi.nutritionix.com/v2/natural/exercise).
 2. Using the [Nutritionix API](https://trackapi.nutritionix.com/v2/natural/exercise) and its natural language processing glossary, the user is asked "what did you do today?", the user would then respond by typing something along the lines of "i ran 2km in 30mins".
 3. The API can then calculate calories burned, organises the input and records the results to a .JSON.
