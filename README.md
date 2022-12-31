@@ -43,5 +43,5 @@ Add NLP to the list of course topics I wish to learn.
 This Github Repository contains:
 - .py files.
 
-Game runs using python 3.10 interpreter.
+runs using python 3.10 interpreter.
 
